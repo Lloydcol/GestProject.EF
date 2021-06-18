@@ -1,0 +1,15 @@
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\bin\Debug\net5.0\GestProject.EF.deps.json
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\bin\Debug\net5.0\GestProject.EF.runtimeconfig.json
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\bin\Debug\net5.0\GestProject.EF.runtimeconfig.dev.json
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\bin\Debug\net5.0\GestProject.EF.dll
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\bin\Debug\net5.0\ref\GestProject.EF.dll
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\bin\Debug\net5.0\GestProject.EF.pdb
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.AssemblyInfoInputs.cache
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.AssemblyInfo.cs
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.csproj.CoreCompileInputs.cache
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.dll
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\ref\GestProject.EF.dll
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.pdb
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.genruntimeconfig.cache
+C:\Users\Lloyd\Desktop\GestProject\GestProject.EF\obj\Debug\net5.0\GestProject.EF.csprojAssemblyReference.cache
